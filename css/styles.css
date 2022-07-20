@@ -34,7 +34,7 @@ p{
 .banner{
     height: 960px;
     background-repeat: no-repeat;
-    background-image: url('/images/banner.png');
+    background-image: url('../images/banner.png');
     display: flex;
     justify-content: center;
     align-items: center;
