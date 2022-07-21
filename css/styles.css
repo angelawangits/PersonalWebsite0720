@@ -7,6 +7,14 @@ h1{
     margin-bottom: 32px;
 }
 
+h2{
+    font-size: 64px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-style: italic;
+    line-height: 84px;
+}
+
 h3{
     font-size: 24px;
     font-weight: bold;
@@ -54,4 +62,30 @@ p{
 .social-media-icon{
     display: flex;
     justify-content: space-around;
+}
+
+.self-intro{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 56px;
+    padding-bottom: 56px;
+}
+
+.self-intro img{
+    width: 384px;
+    height: 384px;
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+.self-intro ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.self-intro ul li{
+    list-style-type: disc;
+    font-size: 22px;
 }
