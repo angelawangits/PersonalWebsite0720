@@ -136,3 +136,37 @@ p{
     display: flex;
     justify-content: space-around;
 }
+
+.work-experience{
+    padding-top: 56px;
+    padding-bottom: 96px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.work-experience h2{
+    margin-bottom: 16px;
+}
+
+.work-experience p{
+    width: 226px;
+    font-size: 20px;
+    line-height: 30px;
+    margin-bottom: 56px;
+}
+
+.work-row{
+    width: 1200px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.work-row h3{
+    font-size: 20px;
+    line-height: 42px;
+    font-style: normal;
+    padding-top: 16px;
+    padding-bottom: 48px;
+}
