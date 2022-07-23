@@ -32,10 +32,6 @@ p{
     color: white;
 }
 
-.black-content{
-    color: black;
-}
-
 .banner{
     height: 960px;
     background-repeat: no-repeat;
@@ -169,4 +165,14 @@ p{
     font-style: normal;
     padding-top: 16px;
     padding-bottom: 48px;
+}
+
+.contact-info{
+    background-color: black;
+    text-align: center;
+    padding: 56px 0px;
+}
+
+.contact-info h2, p{
+    padding: 8px 0px;
 }
